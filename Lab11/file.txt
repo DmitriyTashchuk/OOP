@@ -1,0 +1,8 @@
+Dima 3 ki2-22-3 5 4 3 2
+Taras 3 ki2-22-3 5 5 5 3
+Dima 1 ki2-24-1 3 3 3 3
+Vlad 1 ki2-24-1 5 5 5 5
+Andriy 1 ki2-24-1 5 4 3 5
+Artur 1 ki2-24-1 5 5 5 4
+Vasya 3 ki2-22-3 5 5 5 5
+Yarik 3 ki2-22-3 5 5 4 3
